@@ -1,0 +1,4 @@
+a string
+hi welcome to decorator
+
+bye decorator
